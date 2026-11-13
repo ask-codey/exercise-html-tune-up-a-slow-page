@@ -1,0 +1,10 @@
+Your before and after numbers. Write each one after its colon.
+Measure before you change anything, then again when every test passes.
+
+Score: the Lighthouse Performance score, on Mobile (a number from 0 to 100).
+Weight: the "transferred" size at the bottom of the Network panel, with its unit (such as 1.2 MB or 640 kB).
+
+1) scoreBefore:
+2) weightBefore:
+3) scoreAfter:
+4) weightAfter:
